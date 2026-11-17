@@ -1,2 +1,3 @@
+# Python bytecode the vendored SDK leaves behind when run locally.
 __pycache__/
 *.pyc
